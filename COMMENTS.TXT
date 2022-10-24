@@ -1,0 +1,7 @@
+Make instructions:
+  make clean
+  make
+
+All input and output files and variables are hardcoded
+To run excute as follows
+   ./kmeans
